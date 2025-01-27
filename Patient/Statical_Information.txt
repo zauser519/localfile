@@ -1,0 +1,95 @@
+Overview: 252 patients (i.e. 21.52%) of patients died withing 30 days.
+---------------------------
+Grouped with ages:
+age_bins	death_within_30_days_percent
+(0, 20]     0.00
+(20, 40]	11.111111
+(40, 60]	17.747440
+(60, 80]	21.183206
+(80, 100]	26.315789
+---------------------------
+Grouped with gender:
+gender	death_within_30_days_Percent
+Female	19.851577
+Male	22.480620
+---------------------------
+Grouped with insurance type:
+insurance type	death_within_30_days_percent
+Government	22.222222
+Medicaid	21.276596
+Medicare	23.218673
+Private     14.457831
+Self Pay	33.333333
+---------------------------
+Grouped with ethnicity:
+ethnicity   death_within_30_days_percent
+ASIAN   21.052632
+ASIAN - ASIAN INDIAN    0
+ASIAN - CAMBODIAN   0
+ASIAN - CHINESE 40.000000
+ASIAN - KOREAN  0
+ASIAN - VIETNAMESE  0
+BLACK/AFRICAN   100.000000
+BLACK/AFRICAN AMERICAN  18.978102
+BLACK/CAPE VERDEAN  33.333333
+BLACK/HAITIAN   0
+HISPANIC OR LATINO  17.857143
+HISPANIC/LATINO - CUBAN	0
+HISPANIC/LATINO - MEXICAN   0
+HISPANIC/LATINO - PUERTO RICAN  0
+MULTI RACE ETHNICITY    0
+OTHER   22.222222
+PATIENT DECLINED TO ANSWER  33.333333
+PORTUGUESE  0
+UNABLE TO OBTAIN	25.000000
+UNKNOWN/NOT SPECIFIED	30.000000
+WHITE	21.527778
+WHITE - BRAZILIAN   0
+WHITE - EASTERN EUROPEAN    0
+WHITE - OTHER EUROPEAN  0
+WHITE - RUSSIAN 0
+---------------------------
+Ranked medical features co-related with Sepsis Shock (High to low):
+Feature Squared-value of co-relation with target
+Phosphate	0.142336
+Lactate	0.139107
+Anion Gap	0.115525
+Urea Nitrogen	0.068257
+Potassium	0.052591
+Bicarbonate	0.052250
+PTT	0.039854
+MCHC	0.038166
+Magnesium	0.032697
+INR(PT)	0.031814
+MCV	0.031555
+Bilirubin, Total	0.030594
+PT	0.030253
+Asparate Aminotransferase (AST)	0.029264
+RDW	0.025729
+Alanine Aminotransferase (ALT)	0.018715
+Alkaline Phosphatase	0.016518
+Neutrophils	0.015871
+age	0.011644
+Creatinine	0.008175
+White Blood Cells	0.007814
+Calcium, Total	0.005763
+Basophils	0.005746
+SWAB	0.004476
+Hematocrit	0.003972
+MRSA SCREEN	0.003895
+MCH	0.003478
+Eosinophils	0.002319
+URINE	0.002076
+Lymphocytes	0.001468
+Platelet Count	0.001460
+SPUTUM	0.001345
+Red Blood Cells	0.000866
+Glucose	0.000727
+Specific Gravity	0.000528
+Monocytes	0.000492
+Chloride	0.000479
+STOOL	0.000300
+Sodium	0.000226
+BLOOD CULTURE	0.000112
+pH	0.000085
+Hemoglobin	0.000001
