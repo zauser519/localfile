@@ -1,0 +1,54 @@
+Subject ID: 11633
+Features:
+subject_id                             11633
+hadm_id                               124787
+Alanine Aminotransferase (ALT)         142.0
+Alkaline Phosphatase                   131.5
+Anion Gap                               23.6
+Asparate Aminotransferase (AST)       1036.0
+Basophils                                0.0
+Bicarbonate                             15.4
+Bilirubin, Total                         1.0
+Calcium, Total                           6.9
+Chloride                               108.4
+Creatinine                              3.04
+Eosinophils                              0.0
+Glucose                                 88.2
+Hematocrit                         28.645455
+Hemoglobin                         10.383333
+INR(PT)                                  1.7
+Lactate                            14.694118
+Lymphocytes                         6.666667
+MCH                                29.816667
+MCHC                               34.416667
+MCV                                86.666667
+Magnesium                               1.95
+Monocytes                                1.0
+Neutrophils                             78.0
+PT                                 15.711111
+PTT                                     40.2
+Phosphate                           6.566667
+Platelet Count                        70.375
+Potassium                                4.3
+RDW                                14.583333
+Red Blood Cells                     3.488333
+Sodium                                 143.0
+Specific Gravity                       1.025
+Urea Nitrogen                           94.6
+White Blood Cells                  12.683333
+pH                                       5.0
+admission_type                     EMERGENCY
+insurance                           Medicare
+ethnicity                              WHITE
+death_within_30_days                       1
+gender                                     F
+age                                       61
+BLOOD CULTURE                            0.0
+MRSA SCREEN                              0.0
+SPUTUM                                   0.0
+STOOL                                    0.0
+SWAB                                     0.0
+URINE                                    0.0
+num_of_infections                        0.0
+Name: 315, dtype: object
+Predicted Risk of Death Within 30 Days: 0.74
