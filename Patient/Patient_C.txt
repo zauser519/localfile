@@ -1,54 +1,20 @@
 Subject ID: 86629
-Features:
-subject_id                                   86629
-hadm_id                                     147924
-Alanine Aminotransferase (ALT)                22.0
-Alkaline Phosphatase                          47.0
-Anion Gap                                     12.5
-Asparate Aminotransferase (AST)               21.0
-Basophils                                      0.1
-Bicarbonate                                   24.0
-Bilirubin, Total                               0.8
-Calcium, Total                                 7.3
-Chloride                                     105.0
-Creatinine                                     0.5
-Eosinophils                                    0.2
-Glucose                                      114.5
-Hematocrit                                    35.2
-Hemoglobin                                    10.5
-INR(PT)                                   1.807389
-Lactate                                        2.0
-Lymphocytes                                    6.1
-MCH                                          27.75
-MCHC                                         29.85
-MCV                                           93.0
-Magnesium                                      2.0
-Monocytes                                      2.4
-Neutrophils                                   91.2
-PT                                       18.137604
-PTT                                      37.996537
-Phosphate                                      1.7
-Platelet Count                               340.0
-Potassium                                      3.7
-RDW                                           13.8
-Red Blood Cells                               3.79
-Sodium                                       137.5
-Specific Gravity                             1.004
-Urea Nitrogen                                  6.0
-White Blood Cells                            11.25
-pH                                             6.5
-admission_type                           EMERGENCY
-insurance                                 Medicaid
-ethnicity                          ASIAN - CHINESE
-death_within_30_days                             0
-gender                                           F
-age                                             40
-BLOOD CULTURE                                  0.0
-MRSA SCREEN                                    0.0
-SPUTUM                                         0.0
-STOOL                                          0.0
-SWAB                                           0.0
-URINE                                          0.0
-num_of_infections                              0.0
-Name: 1092, dtype: object
-Predicted Risk of Death Within 30 Days: 0.13
+Predicted Risk of Death Within 30 Days: 0.12
+
+Abnormal Features Contributing to Increased Risk:
+Basophils: Lower (0.10 vs 0.15)
+Bilirubin, Total: Higher (0.80 vs 0.60)
+Calcium, Total: Lower (7.30 vs 7.85)
+Chloride: Lower (105.00 vs 106.37)
+Eosinophils: Lower (0.20 vs 0.30)
+Hematocrit: Higher (35.20 vs 32.30)
+Hemoglobin: Lower (10.50 vs 11.07)
+INR(PT): Higher (1.81 vs 1.30)
+Lactate: Higher (2.00 vs 1.95)
+MCHC: Lower (29.85 vs 34.08)
+MCV: Higher (93.00 vs 88.00)
+Magnesium: Higher (2.00 vs 1.80)
+Monocytes: Lower (2.40 vs 3.00)
+PT: Higher (18.14 vs 14.70)
+PTT: Higher (38.00 vs 32.15)
+Sodium: Lower (137.50 vs 138.33)
