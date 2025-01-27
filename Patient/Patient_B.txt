@@ -1,54 +1,28 @@
 Subject ID: 3977
-Features:
-subject_id                              3977
-hadm_id                               133203
-Alanine Aminotransferase (ALT)          37.0
-Alkaline Phosphatase                   230.0
-Anion Gap                               16.0
-Asparate Aminotransferase (AST)         28.0
-Basophils                           0.187004
-Bicarbonate                             18.0
-Bilirubin, Total                         2.4
-Calcium, Total                          7.45
-Chloride                               113.5
-Creatinine                               1.2
-Eosinophils                         0.629938
-Glucose                                157.0
-Hematocrit                              31.9
-Hemoglobin                              9.85
-INR(PT)                                  2.1
-Lactate                                4.225
-Lymphocytes                          9.22917
-MCH                                    29.05
-MCHC                                   30.95
-MCV                                     94.5
-Magnesium                               1.45
-Monocytes                           3.958358
-Neutrophils                          78.7355
-PT                                      22.5
-PTT                                     53.8
-Phosphate                               2.55
-Platelet Count                         151.5
-Potassium                                3.4
-RDW                                     13.8
-Red Blood Cells                        3.395
-Sodium                                 144.0
-Specific Gravity                       1.016
-Urea Nitrogen                           15.0
-White Blood Cells                       11.1
-pH                                       5.5
-admission_type                     EMERGENCY
-insurance                           Medicare
-ethnicity                              WHITE
-death_within_30_days                       1
-gender                                     F
-age                                       50
-BLOOD CULTURE                            1.0
-MRSA SCREEN                              0.0
-SPUTUM                                   0.0
-STOOL                                    0.0
-SWAB                                     0.0
-URINE                                    0.0
-num_of_infections                        1.0
-Name: 112, dtype: object
-Predicted Risk of Death Within 30 Days: 0.45
+Predicted Risk of Death Within 30 Days: 0.47
+
+Abnormal Features Contributing to Increased Risk:
+Alkaline Phosphatase: Higher (230.00 vs 89.25)
+Anion Gap: Higher (16.00 vs 13.00)
+Bicarbonate: Lower (18.00 vs 22.00)
+Bilirubin, Total: Higher (2.40 vs 0.68)
+Calcium, Total: Lower (7.45 vs 7.88)
+Creatinine: Higher (1.20 vs 0.94)
+Glucose: Higher (157.00 vs 113.12)
+Hematocrit: Higher (31.90 vs 31.62)
+Hemoglobin: Lower (9.85 vs 10.52)
+INR(PT): Higher (2.10 vs 1.35)
+Lactate: Higher (4.22 vs 1.67)
+Lymphocytes: Higher (9.23 vs 7.90)
+MCHC: Lower (30.95 vs 33.94)
+MCV: Higher (94.50 vs 88.42)
+Neutrophils: Lower (78.74 vs 82.55)
+PT: Higher (22.50 vs 14.65)
+PTT: Higher (53.80 vs 32.02)
+Phosphate: Higher (2.55 vs 2.42)
+Platelet Count: Lower (151.50 vs 187.75)
+Red Blood Cells: Lower (3.40 vs 3.57)
+Specific Gravity: Higher (1.02 vs 1.01)
+White Blood Cells: Higher (11.10 vs 10.20)
+pH: Lower (5.50 vs 5.77)
+BLOOD CULTURE: Higher (1.00 vs 0.00)
