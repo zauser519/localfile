@@ -1,32 +1,27 @@
 Subject ID: 11633
-Predicted Risk of Death Within 30 Days: 0.76
+Predicted Risk of Death Within 30 Days: 0.72
 
-Abnormal Features Contributing to Increased Risk:
-Alanine Aminotransferase (ALT): Higher (142.00 vs 32.33)
-Alkaline Phosphatase: Higher (131.50 vs 82.25)
-Anion Gap: Higher (23.60 vs 13.00)
-Asparate Aminotransferase (AST): Higher (1036.00 vs 37.50)
-Basophils: Lower (0.00 vs 0.19)
-Bicarbonate: Lower (15.40 vs 22.00)
-Bilirubin, Total: Higher (1.00 vs 0.60)
-Calcium, Total: Lower (6.90 vs 7.82)
-Creatinine: Higher (3.04 vs 0.93)
-Eosinophils: Lower (0.00 vs 0.35)
-Hemoglobin: Lower (10.38 vs 10.64)
-INR(PT): Higher (1.70 vs 1.30)
-Lactate: Higher (14.69 vs 1.67)
-Magnesium: Higher (1.95 vs 1.80)
-Monocytes: Lower (1.00 vs 3.10)
-Neutrophils: Lower (78.00 vs 82.62)
-PT: Higher (15.71 vs 14.57)
-PTT: Higher (40.20 vs 31.70)
-Phosphate: Higher (6.57 vs 2.28)
-Platelet Count: Lower (70.38 vs 190.50)
-Potassium: Higher (4.30 vs 3.77)
-RDW: Higher (14.58 vs 14.01)
-Red Blood Cells: Lower (3.49 vs 3.60)
-Specific Gravity: Higher (1.02 vs 1.02)
-Urea Nitrogen: Higher (94.60 vs 15.90)
-White Blood Cells: Higher (12.68 vs 11.09)
-pH: Lower (5.00 vs 5.75)
-age: Higher (61.00 vs 53.00)
+Medically Abnormal Features:
+Alanine Aminotransferase (ALT): Higher than normal (142.00 vs 7.00-56.00)
+Anion Gap: Higher than normal (23.60 vs 8.00-16.00)
+Bicarbonate: Lower than normal (15.40 vs 22.00-29.00)
+Calcium, Total: Lower than normal (6.90 vs 8.50-10.20)
+Chloride: Higher than normal (108.40 vs 96.00-106.00)
+Creatinine: Higher than normal (3.04 vs 0.60-1.20)
+Lactate: Higher than normal (14.69 vs 0.50-2.20)
+Lymphocytes: Higher than normal (6.67 vs 1.00-3.00)
+Monocytes: Lower than normal (1.00 vs 2.00-8.00)
+Neutrophils: Higher than normal (78.00 vs 2.00-7.00)
+PT: Higher than normal (15.71 vs 11.00-13.50)
+PTT: Higher than normal (40.20 vs 25.00-35.00)
+Phosphate: Higher than normal (6.57 vs 2.50-4.50)
+Platelet Count: Lower than normal (70.38 vs 150.00-450.00)
+RDW: Higher than normal (14.58 vs 11.50-14.50)
+Urea Nitrogen: Higher than normal (94.60 vs 7.00-20.00)
+White Blood Cells: Higher than normal (12.68 vs 4.50-11.00)
+pH: Lower than normal (5.00 vs 7.35-7.45)
+
+3 Critical Features Contributing to Risk:
+Lactate: Higher than normal (14.69 vs 0.50-2.20) - Positive correlation (0.373), Deviation severity: 15.7x normal range, Combined risk score: 32.97
+Urea Nitrogen: Higher than normal (94.60 vs 7.00-20.00) - Positive correlation (0.261), Deviation severity: 12.5x normal range, Combined risk score: 11.49
+pH: Lower than normal (5.00 vs 7.35-7.45) - Negative correlation (-0.009), Deviation severity: 48.0x normal range, Combined risk score: 4.31
